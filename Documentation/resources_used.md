@@ -11,8 +11,8 @@
 
 ### Sources:
 
-- (Flutter Documentation)[https://docs.flutter.dev/]
+- [Flutter Documentation](https://docs.flutter.dev/)
 
 ### Dev Res: 
 
-- (Flutter Download Info)[https://docs.flutter.dev/install/quick?_gl=1%2A1au6ix1%2A_gcl_au%2ANjM1MDg1MTU2LjE3OTAxOTMwNDM.%2A_ga%2AMTkwOTc0MDg2LjE3OTAxOTMwMjg.%2A_ga_04YGWK0175%2AczE3OTAxOTMwMjgkbzEkZzEkdDE3OTAxOTQ1MjckajYwJGwwJGgw]
+- [Flutter Download Info](https://docs.flutter.dev/install/quick?_gl=1%2A1au6ix1%2A_gcl_au%2ANjM1MDg1MTU2LjE3OTAxOTMwNDM.%2A_ga%2AMTkwOTc0MDg2LjE3OTAxOTMwMjg.%2A_ga_04YGWK0175%2AczE3OTAxOTMwMjgkbzEkZzEkdDE3OTAxOTQ1MjckajYwJGwwJGgw)
