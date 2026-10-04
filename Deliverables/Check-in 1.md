@@ -16,7 +16,7 @@ Focus: Problem definition, mobile platform constraints, relational algebra, and 
 - Being able to look at the individual/total rent
 
 ### Initial Database Design and Mechanics:
-> Note: I saw that you could upload jpeg's with a markdown file, but I couldn't really get it to work. The images will be sent via Blackboard and, just in case, here's a google drive link to the schema and relational algebra:
+> **Please** go here to see changes that were made schema post-submission:
 [Schema/Relational Algebra](https://drive.google.com/drive/folders/1ua5mRH5ZV4d2wVKtv9t8zMDqKr8LQ964?usp=sharing)
 
 **Relationships**:
