@@ -1,11 +1,12 @@
 # Mobile Expendature App
 
 **Course:** CS656  
-**Author:** Benjamin Wilson
+**Authors:** Deisy Maldanado-Granillo, Benjamin Wilson
 
 This app is designed for Android 17 to provide an easy-to-use solution for roommates and groups to manage shared household expenditures.
 
-> **Note:** While optimized for roommate groups, this app can be used by anyone managing shared or personal expenses.
+> **Note:** While optimized for roommate groups/households, this app can be used by anyone managing shared or personal expenses.
+> It should also be noted that the front-end framework began with an official Flutter template for Android.
 
 ## Status
 
@@ -52,8 +53,3 @@ Coming soon...
 A *small* amount of AI was used for very minor things such as:
 - An occasional alternative to a search engine.
 - Infrequent formatting.
-
-I am a Computer Science student and I also like computers because they extend my ability to help people.
-If, and, or when AI was used, at no point did it have the last say in the process. I firmly believe that **if** AI *is used*,
-then a **Human Being** should be the one to review and approve its input/output. With that being said, I do not allow AI to ever
-meddle in anything that truly matters to me, i.e. the actual programming process. If my code looks terrible, it's because I am bad. If I have a million commits to GitHub, it's because I am learning and also have **ALOT** of ADHD.
