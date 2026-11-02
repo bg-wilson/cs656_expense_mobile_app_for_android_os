@@ -1,6 +1,5 @@
 # Check-in 2: Normalization and Architectural Evolution
-Diesy Maldanado-Granillo and Benjamin Wilson
-CS 665 M/W 12:30pm-1:30pm
+Diesy and Ben
 
 > Focus: Normalization (up to 3NF), anomaly resolution, Entity-Relationship (ER) modeling, and data integrity.
 
