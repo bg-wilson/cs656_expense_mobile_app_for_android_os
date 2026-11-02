@@ -1,6 +1,4 @@
 # Check-in 1: Scope, Schema, and Strategy
-Diesy Maldanado-Granillo and Benjamin Wilson
-CS 656 M/W 12:30pm-1:30pm
 
 ## Deliverables:
 

@@ -12,6 +12,7 @@
 ### Sources:
 
 - [Flutter Documentation](https://docs.flutter.dev/)
+ - [Learn Flutter](https://docs.flutter.dev/learn/pathway)
 
 ### Dev Res: 
 
