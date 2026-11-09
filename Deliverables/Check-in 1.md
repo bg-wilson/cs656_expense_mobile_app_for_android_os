@@ -1,4 +1,5 @@
 # Check-in 1: Scope, Schema, and Strategy
+Deisy and Ben
 
 ## Deliverables:
 

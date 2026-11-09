@@ -10,7 +10,7 @@ This app is designed for Android 17 to provide an easy-to-use solution for roomm
 
 ## Status
 
-Development (v0.0.1)
+Development (v0.0.2)
 
 ## Features:
 1. **Group Management:** Users can create and join expenditure groups.
